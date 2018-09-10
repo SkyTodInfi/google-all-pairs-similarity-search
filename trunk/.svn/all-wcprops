@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/32/trunk
+END
+data-source-iterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/trunk/data-source-iterator.cc
+END
+data-source-iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/data-source-iterator.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/9/trunk/TODO
+END
+Makefile.w32
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/16/trunk/Makefile.w32
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/14/trunk/main.cc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/4/trunk/COPYING
+END
+allpairs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/32/trunk/allpairs.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/16/trunk/README
+END
+allpairs.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/32/trunk/allpairs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/27/trunk/Makefile
+END
